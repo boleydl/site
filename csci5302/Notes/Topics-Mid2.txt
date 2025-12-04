@@ -1,0 +1,30 @@
+
+7 Interpolation 
+    7.1   Interpolation 
+    7.2   Existence, Uniqueness, and Conditioning 
+    7.3   Polynomial Interpolation 
+        7.3.1   Monomial Basis
+        7.3.2   Lagrange Interpolation
+        7.3.3   Newton Interpolation
+        7.3.4   Orthogonal Polynomials
+        7.3.5   Interpolating Continuous Functions
+    7.4   Piecewise Polynomial Interpolation 
+        7.4.2   Cubic Spline Interpolation
+
+3 Linear Least Squares
+    3.1   Linear Least Squares Problems 
+    3.2   Existence and Uniqueness 
+        3.2.1   Normal Equations
+        3.2.2   Orthogonality and Orthogonal Projectors
+
+6 Optimization 
+    6.1   Optimization Problems 
+    6.2   Existence and Uniqueness 
+        6.2.1   Convexity
+        6.2.2   Unconstrained Optimality Conditions
+    6.4   Optimization in One Dimension 
+        6.4.1   Golden Section Search
+        6.4.3   Newton's Method
+    6.5   Unconstrained Optimization 
+        6.5.2   Steepest Descent
+
